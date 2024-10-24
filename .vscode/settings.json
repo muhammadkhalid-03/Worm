@@ -1,0 +1,35 @@
+{
+  // C/C++ Settings
+  "C_Cpp.default.cStandard": "c11",
+  // Privacy Settings
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  // Editor Settings to match formatting rules
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    100
+  ],
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "editor.wrappingIndent": "indent",
+  "editor.formatOnSave": true,
+  "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+  "files.trimTrailingWhitespace": true,
+  // Optional C/C++ Settings
+  "C_Cpp.autocomplete": "Default",
+  "C_Cpp.suggestSnippets": false,
+  "C_Cpp.autoAddFileAssociations": true,
+  "C_Cpp.codeFolding": "Disabled",
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "C_Cpp.errorSquiggles": "Disabled",
+  // Optional Editor Settings
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.autoClosingOvertype": "never",
+  "editor.autoSurround": "never",
+  "editor.minimap.enabled": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.find.seedSearchStringFromSelection": false,
+}
